@@ -21,19 +21,6 @@ Este código foi fornecido exclusivamente para fins de desenvolvimento e manuten
 
 ---
 
-## 📁 Estrutura do Projeto
-
-glinformatica/
-├── index.html # Página principal do website
-├── README.md # Este arquivo
-└── assets/
-├── css/
-│ └── style.css # Estilos do website
-└── js/
-└── script.js # Funcionalidades JavaScript
-
----
-
 ## ✨ Funcionalidades
 
 - ✅ **Menu responsivo** com toggle para mobile
